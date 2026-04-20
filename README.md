@@ -5,6 +5,7 @@ O objetivo é demonstrar operações básicas de banco de dados em uma aplicaç�
 ---
 
 <h2>Tecnologias utilizadas:</h2>
+
 * PHP
 * MySQL
 * HTML
@@ -13,6 +14,7 @@ O objetivo é demonstrar operações básicas de banco de dados em uma aplicaç�
 ---
 
 <h2>Funcionalidades:</h2>
+
 * Criar novos registros (Create)
 * Listar registros (Read)
 * Atualizar registros (Update)
